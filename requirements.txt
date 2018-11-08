@@ -3,4 +3,3 @@ requests
 paramiko
 pysnmp==4.4.6
 pycryptodome
-prompt_toolkit
